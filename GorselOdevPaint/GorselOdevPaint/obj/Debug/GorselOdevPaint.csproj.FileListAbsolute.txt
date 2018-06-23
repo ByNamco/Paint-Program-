@@ -1,0 +1,31 @@
+C:\Users\M.ÇELİK\Documents\Visual Studio 2012\Projects\GorselOdevPaint\GorselOdevPaint\bin\Debug\GorselOdevPaint.exe.config
+C:\Users\M.ÇELİK\Documents\Visual Studio 2012\Projects\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.Properties.Resources.resources
+C:\Users\M.ÇELİK\Documents\Visual Studio 2012\Projects\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.csproj.GenerateResource.Cache
+C:\Users\M.ÇELİK\Documents\Visual Studio 2012\Projects\GorselOdevPaint\GorselOdevPaint\bin\Debug\GorselOdevPaint.exe
+C:\Users\M.ÇELİK\Documents\Visual Studio 2012\Projects\GorselOdevPaint\GorselOdevPaint\bin\Debug\GorselOdevPaint.pdb
+C:\Users\M.ÇELİK\Documents\Visual Studio 2012\Projects\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.exe
+C:\Users\M.ÇELİK\Documents\Visual Studio 2012\Projects\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.pdb
+C:\Users\M.ÇELİK\Documents\Visual Studio 2012\Projects\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.csprojResolveAssemblyReference.cache
+C:\Users\M.ÇELİK\Documents\Visual Studio 2012\Projects\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.frmPaint.resources
+E:\gör8\GorselOdevPaint\GorselOdevPaint\bin\Debug\GorselOdevPaint.exe.config
+E:\gör8\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.exe
+E:\gör8\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.pdb
+C:\Users\M.ÇELİK\Desktop\GorselOdevPaint\GorselOdevPaint\bin\Debug\GorselOdevPaint.exe.config
+C:\Users\M.ÇELİK\Desktop\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.exe
+C:\Users\M.ÇELİK\Desktop\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.pdb
+C:\Users\M.ÇELİK\Desktop\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.csprojResolveAssemblyReference.cache
+C:\Users\M.ÇELİK\Desktop\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.frmPaint.resources
+C:\Users\M.ÇELİK\Desktop\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.csproj.GenerateResource.Cache
+C:\Users\M.ÇELİK\Desktop\GorselOdevPaint\GorselOdevPaint\bin\Debug\GorselOdevPaint.exe
+C:\Users\M.ÇELİK\Desktop\GorselOdevPaint\GorselOdevPaint\bin\Debug\GorselOdevPaint.pdb
+C:\Users\M.ÇELİK\Desktop\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.Properties.Resources.resources
+C:\Users\nazmi\source\repos\GorselOdevPaint\GorselOdevPaint\bin\Debug\GorselOdevPaint.exe.config
+C:\Users\nazmi\source\repos\GorselOdevPaint\GorselOdevPaint\bin\Debug\GorselOdevPaint.exe
+C:\Users\nazmi\source\repos\GorselOdevPaint\GorselOdevPaint\bin\Debug\GorselOdevPaint.pdb
+C:\Users\nazmi\source\repos\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.csprojResolveAssemblyReference.cache
+C:\Users\nazmi\source\repos\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.frmPaint.resources
+C:\Users\nazmi\source\repos\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.Properties.Resources.resources
+C:\Users\nazmi\source\repos\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.csproj.GenerateResource.Cache
+C:\Users\nazmi\source\repos\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.csproj.CoreCompileInputs.cache
+C:\Users\nazmi\source\repos\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.exe
+C:\Users\nazmi\source\repos\GorselOdevPaint\GorselOdevPaint\obj\Debug\GorselOdevPaint.pdb
